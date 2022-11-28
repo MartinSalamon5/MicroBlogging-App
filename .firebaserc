@@ -1,7 +1,5 @@
 {
   "projects": {
-    "microblogger-e4999": "microblogger-e4999"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "tweetapp-88872"
+  }
 }
